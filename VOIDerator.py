@@ -31,4 +31,4 @@ async def on_ready():
     print("Bot presence  is active")
 
 if __name__ == "__main__":
-    bot.run("MTAyNTEwOTIxNzc5Mjc2NjAyMw.Gv39IF.UaPsMwhldG2sYVIHHs-BzAA0JuJfDtGBeWBZOk")
+    bot.run("TOKEN")
